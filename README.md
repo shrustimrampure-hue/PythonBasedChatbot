@@ -48,6 +48,3 @@ Chatbot: Hello! How can I help you today?
 
 YOU: What is the capital of India?
 Chatbot: The capital of India is New Delhi.
-
-```bash
-pip install google-generativeai
